@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hello! I enjoy learning new skills and connecting other learners with each other. Currently I practice a lot of problem-solving in the laboratory. I have just embarked on the journey of learning web development! 
+Greetings! I am a budding front-end web developer! I have experience building blogs using Jekyll. Contact me if there's something I can help you with!
+
+Aside from building web pages, I also know a lot about biochemistry, protein science, and the biotech job market. 
 
 ### Contact me
 
